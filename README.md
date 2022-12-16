@@ -1,4 +1,4 @@
-# Automatic movement Issue column for Jira
+# Automatically move issue stages in Jira
 Github actions give us the ability to set a trigger for our events. <br/>
 You can automatically update the column status of your Jira issues by using this yml file. <br/>
 For instance, after the relevant branch is merged with the dev branch, you may want to move your issue to the QA stage. <br/>
