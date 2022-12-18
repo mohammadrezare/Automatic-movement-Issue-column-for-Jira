@@ -2,8 +2,8 @@
 Github actions give us the ability to set a trigger for our events. <br/>
 You can automatically update the column status of your Jira issues by using this yml file. <br/>
 For instance, after the relevant branch is merged with the dev branch, you may want to move your issue to the QA stage. <br/>
-This is great because it will increase production. <br/>
-It is also possible to change the status of other columns <br /><br />
+It will increase productivity, which is great. <br/>
+It is also possible to change the status of other columns. <br /><br />
 <b>Notice:</b><br />
 In your Github secrets, you must include your Jira base URL, user email, and API token
 <br/>
